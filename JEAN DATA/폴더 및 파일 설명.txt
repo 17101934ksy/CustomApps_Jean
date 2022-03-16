@@ -1,0 +1,12 @@
+algorithm_main_sql : 알고리즘을 적용하는 메인 sql 코드입니다
+
+algorithm_python  : 알고리즘 적용을 위해 총구매수, 연령별 구매수, 별점을 분위수로 나눠주는 코드입니다
+
+Crawling_python : 크롤링 파이썬 코드입니다.
+
+sql_insert_python : 오라클에 데이터를 입력하기 위한 insert 코드입니다.
+
+type_python : 바지 종류 python 파일입니다.
+
+json, pickle, text : 크롤링 결과 및 알고리즘을 적용하기 위해 저장한 다양한 타입의 파일입니다.
+
